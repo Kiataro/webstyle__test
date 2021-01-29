@@ -1,0 +1,20 @@
+.breadcrumbs {
+  padding: 40px 0;
+  .active {
+    color: #828282 !important;
+  }
+  .breadcumbs__link {
+      color: #333;
+      font-size: 14px;
+      margin: 0 10px;
+    &:hover {
+      color: #4DA316;
+    }
+    &:first-child {
+      margin-left: 0;
+    }
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+}

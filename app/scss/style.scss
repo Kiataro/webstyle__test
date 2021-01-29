@@ -1,0 +1,111 @@
+@import "vars";
+@import "libs";
+@import "fonts";
+
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+ul[class],
+ol[class] {
+  padding: 0;
+  margin: 0;
+}
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+ul[class],
+ol[class],
+li,
+figure,
+figcaption,
+blockquote,
+dl,
+dd {
+  margin: 0;
+}
+body {
+  min-height: 100vh;
+  scroll-behavior: smooth;
+  text-rendering: optimizeSpeed;
+  line-height: 1.5;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  color: #4F4F4F;
+  background: #efefef;
+  overflow-x: hidden;
+}
+ul[class],
+ol[class] {
+  list-style: none;
+}
+a:not([class]) {
+  text-decoration-skip-ink: auto;
+}
+img {
+  max-width: 100%;
+  display: block;
+}
+article > * + * {
+  margin-top: 1em;
+}
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+.layout {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+.colored {
+  color: #4DA316;
+}
+a {
+  text-decoration: none;
+  color: #4F4F4F;
+}
+.bold {
+  font-weight: 700;
+}
+button {
+  border: none;
+  outline: none;
+  background: none;
+}
+.mb-20 {
+  margin-bottom: 20px;
+}
+.mb-100 {
+  margin-bottom: 100px !important;
+}
+.mb-5 {
+  margin-bottom: 5px !important;
+}
+.p-0 {
+  padding-top: 0 !important;
+}
+@import "blocks/header";
+@import "blocks/footer";
+@import "blocks/breadcrumbs";
+@import "sections/swing";
+@import "sections/auto";
+@import "sections/how";
+@import "sections/where";
+@import "sections/form";
+@import "media";
