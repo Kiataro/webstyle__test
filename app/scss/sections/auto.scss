@@ -1,4 +1,35 @@
+.auto__goal-coating {
 
+  display: flex;
+
+  flex-wrap: wrap;
+  align-items: center;
+  .goal-coating__item {
+    flex: 0 0 50%;
+    margin-bottom: 40px;
+
+    > a {
+      position: relative;
+      &:before {
+        content: "";
+
+        display: block;
+        position: absolute;
+        width: 97px;
+        height: 97px;
+        border: 5px solid #E7E7E7;
+        top: 0;
+        left: 0;
+      }
+      > img {
+        margin-left: 15px;
+        margin-bottom: 20px;
+        margin-top: 15px;
+
+      }
+    }
+  }
+}
 
 .auto__goal {
   margin-bottom: 70px;
@@ -22,7 +53,7 @@
         line-height: 52px;
         font-weight: 800;
         margin-bottom: 40px;
-        margin-top: -150px;
+        margin-top: -145px;
 
       }
       .auto__goal--subtitle {

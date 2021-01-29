@@ -1,3 +1,14 @@
+.how__goal--list {
+  width: 700px;
+  display: flex;
+  justify-content: space-between;
+  .goal--list__item {
+    max-width: 253px;
+    > img {
+      margin-bottom: 25px;
+    }
+  }
+}
 .how__goal {
   margin-bottom: 70px;
   .layout {

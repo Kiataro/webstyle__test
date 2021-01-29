@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14da4e98-2f30-47f5-a220-27f05a4e9c3d" name="Default Changelist" comment="" />
+    <list default="true" id="14da4e98-2f30-47f5-a220-27f05a4e9c3d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/css/blocks/breadcrumbs.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/blocks/breadcrumbs.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/css/blocks/footer.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/blocks/footer.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/css/blocks/header.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/blocks/header.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/css/sections/auto.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/sections/auto.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/css/sections/form.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/sections/form.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/css/sections/how.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/sections/how.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/css/sections/swing.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/sections/swing.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/css/sections/where.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/sections/where.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/style.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/garage.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/garage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/rollback.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/rollback.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/scss/_libs.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/scss/_libs.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/scss/sections/auto.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/scss/sections/auto.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/scss/sections/how.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/scss/sections/how.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/scss/style.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +28,9 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1nhA59fPHUYHMrB3eUGdewD3Ipy" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -17,6 +38,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -37,16 +59,12 @@
       <updated>1611831766419</updated>
       <workItem from="1611831767752" duration="15607000" />
       <workItem from="1611919344592" duration="33000" />
+      <workItem from="1611920154367" duration="128000" />
+      <workItem from="1611920296640" duration="7603000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="731" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611837824666">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="731" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1611837824666" />
   </component>
 </project>
