@@ -14,10 +14,11 @@
       <change beforePath="$PROJECT_DIR$/app/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/style.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/garage.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/garage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/overhang.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/overhang.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/rollback.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/rollback.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/scss/_libs.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/scss/_libs.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/scss/sections/auto.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/scss/sections/auto.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/scss/sections/how.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/scss/sections/how.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/scss/_media.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/scss/_media.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/scss/blocks/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/scss/blocks/header.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/scss/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,10 +62,32 @@
       <workItem from="1611919344592" duration="33000" />
       <workItem from="1611920154367" duration="128000" />
       <workItem from="1611920296640" duration="7603000" />
+      <workItem from="1612103522946" duration="53000" />
+      <workItem from="1612103595106" duration="87000" />
+      <workItem from="1612348267899" duration="2692000" />
+      <workItem from="1612357396531" duration="5240000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1612103579565">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612103579565" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1612103579565">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612103579565" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1612103579565">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612103579565" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1612103579565">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612103579565" />
   </component>
 </project>

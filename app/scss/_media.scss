@@ -1,0 +1,354 @@
+@media (max-width: 1100px) {
+  .layout {
+    width: 95%;
+  }
+
+}
+@media (max-width: 990px) {
+  .breadcrumbs .layout {
+    width: 95%;
+  }
+  .header .layout {
+    width: 95%;
+  }
+  .header .header__menu .header__menu-list .header__menu-item {
+    margin-right: 25px;
+  }
+  .header .header__menu .header__menu-list .header__menu-item .header__menu-link {
+    font-size: 12px;
+  }
+  .header__logo--link {
+    font-size: 14px;
+  }
+  .header .header__profile .header__profile--phone {
+    font-size: 12px;
+  }
+  .header .header__profile .header__profile--location {
+    font-size: 12px;
+  }
+  .breadcrumbs .breadcumbs__link {
+    font-size: 12px;
+  }
+  .swing__goal .layout .swing__goal--wrapper .swing__goal--title h1 {
+    font-size: 52px;
+    line-height:  54px;
+  }
+  .swing__goal .layout .swing__goal--wrapper {
+    padding: 20px 60px 20px;
+  }
+  .swing__goal .layout .swing__goal--wrapper .swing__goal--title {
+    margin-bottom: 45px;
+  }
+  .swing__goal .layout .swing__goal--wrapper .swing__goal--subtitle {
+    font-size: 14px;
+  }
+  .swing__goal .layout .swing__goal--wrapper .swing__goal--footnote {
+    font-size: 14px;
+  }
+  .swing__goal .layout .swing__goal--list {
+    width: 95%;
+    margin: 0 auto;
+  }
+  .swing__goal .layout .swing__goal--list .goal-item__subtitle {
+    font-size: 14px;
+  }
+  .auto__goal .auto__goal--wrapper .auto__goal--left .auto__goal--title {
+    font-size: 36px;
+    line-height: 34px;
+  }
+  .auto__goal .auto__goal--wrapper {
+    width: 95%;
+    margin: 0 auto;
+  }
+  .auto__goal .auto__goal--wrapper .auto__goal--left {
+    padding: 80px 60px 20px;
+  }
+  .auto__goal .auto__goal--wrapper .auto__goal--left .auto__goal--subtitle {
+    font-size: 14px;
+  }
+  .auto__goal .auto__goal--wrapper .auto__goal--left .auto__goal--title {
+    margin-bottom: 10px;
+  }
+  .auto__goal .auto__goal--wrapper .auto__goal--left .auto__goal--subtitle {
+    width: 500px;
+  }
+  .auto__goal {
+    margin-bottom: 0;
+  }
+  .how__goal .layout .how__goal--title {
+    font-size: 36px;
+    line-height: 34px;
+  }
+  .how__goal .layout .how__goal--footnote {
+    font-size: 14px;
+  }
+  .how__goal .layout .how__goal--subtitle {
+    font-size: 14px;
+  }
+  .how__goal {
+    margin-bottom: 100px;
+  }
+  .where__goal .layout .where__goal--title {
+    font-size: 36px;
+    line-height: 34px;
+  }
+  .where__goal .layout .where__goal--subtitle {
+    font-size: 14px;
+  }
+  .where__goal {
+    margin-bottom: 100px;
+  }
+  .form__goal .layout .form__goal--wrapper .form__goal--form .goal--form__right .form__right--title {
+    font-size: 36px;
+    line-height: 34px;
+    margin-bottom: 20px;
+  }
+  .form__goal .layout .form__goal--wrapper .form__goal--form .goal--form__right .form__right--subtitle {
+    font-size: 14px;
+  }
+  .form__goal .layout .form__goal--wrapper .form__goal--form .goal--form__right .goal--form__wrapper .form__right--label {
+    font-size: 14px;
+  }
+  .form__goal .layout .form__goal--wrapper .form__goal--form .goal--form__right .goal--form__wrapper .form__right--label {
+    margin-bottom: 10px;
+  }
+  .form__goal .layout .form__goal--wrapper .form__goal--form .goal--form__right .goal--form__wrapper input[type='text'] {
+    font-size: 12px;
+  }
+  .form__goal .layout .form__goal--wrapper .form__goal--form .goal--form__right .goal--form__wrapper .form__right--policy input[type="checkbox"]+label {
+    font-size: 12px;
+  }
+  .form__goal .layout .form__goal--wrapper .form__goal--form .goal--form__right .goal--form__wrapper .form__right--policy .right__policy--link {
+    font-size: 12px;
+  }
+  .form__goal .layout .form__goal--wrapper {
+    padding: 40px;
+  }
+  .form__goal .layout .form__goal--wrapper .form__goal--form .goal--form__right .form__right--btn {
+    font-size: 12px;
+  }
+  .footer .layout .footer__wrapper .footer__column .footer__logo--link {
+    font-size: 14px;
+  }
+  .footer .layout .footer__wrapper .footer__column .footer__copyright {
+    font-size: 12px;
+  }
+  .footer .layout .footer__wrapper .footer__column .footer__column-list .footer__column-item .footer__column-link {
+    font-size: 12px;
+  }
+  .footer .layout .footer__wrapper .footer__column .footer__column-list .footer__column-item {
+    margin-bottom: 10px;
+  }
+  .footer .layout .footer__wrapper .footer__column .footer__column-row .footer__column-title {
+    font-size: 12px;
+  }
+  .footer .layout .footer__wrapper .footer__column .footer__column-row .footer__column-link {
+    font-size: 12px;
+  }
+  .footer .layout .footer__wrapper .footer__column .footer__column-row .footer__column-subtitle {
+    font-size: 12px;
+  }
+  .swing__goal--enumeration .goal__enumeration-list .goal__enumeration-item {
+    font-size: 14px;
+  }
+  .auto__goal .auto__goal--wrapper .auto__goal--footnote {
+    font-size: 14px;
+    width: 500px;
+  }
+  .auto__goal .auto__goal--wrapper .auto__goal--right {
+    right: -25px;
+  }
+  .form__goal {
+    padding-top: 50px;
+    margin-top: 50px;
+  }
+  .auto__goal-coating .goal-coating__item {
+    flex: 0 0 35%;
+  }
+  .auto__goal-coating .goal-coating__item>a {
+    font-size: 14px;
+  }
+  .how__goal--list .goal--list__item {
+    font-size: 14px;
+    line-height: 24px;
+    width: 300px;
+  }
+}
+@media (min-width: 769px) {
+  .hamburger-menu {
+    display: none;
+  }
+}
+@media (max-width: 768px) {
+  .header {
+    padding-top: 15px;
+  }
+  .hamburger-menu {
+    display: block;
+  }
+  .header .header__profile {
+    display: none;
+  }
+  .header .header__menu {
+    display: none;
+  }
+  .how__goal .layout .how__goal--subtitle {
+    width: 100%;
+  }
+  .how__goal .layout .how__goal--footnote {
+    width: 100%;
+  }
+  .where__goal .layout .where__goal--subtitle {
+    width: 100%;
+  }
+  .swing__goal .layout .swing__goal--wrapper {
+    padding: 0;
+  }
+  .swing__goal .layout .swing__goal--list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .auto__goal .auto__goal--wrapper .auto__goal--right {
+    width: 35%;
+  }
+  .auto__goal .auto__goal--wrapper .auto__goal--left .auto__goal--subtitle {
+    width: 350px;
+  }
+  .auto__goal .auto__goal--wrapper .auto__goal--left {
+    padding: 100px 40px 40px;
+  }
+  .auto__goal .auto__goal--wrapper .auto__goal--left .auto__goal--title {
+    margin-bottom: 20px;
+  }
+  .header__logo--link {
+    font-size: 18px;
+  }
+  .breadcrumbs {
+    padding: 25px 0;
+  }
+  .how__goal .layout {
+    padding: 0;
+  }
+  .where__goal .layout {
+    padding: 0;
+  }
+  .auto__goal .auto__goal--wrapper {
+    margin-bottom: 25px;
+  }
+  .form__goal .layout .form__goal--wrapper .form__goal--form .goal--form__left {
+    display: none;
+  }
+  .form__goal .layout .form__goal--wrapper {
+    padding: 0;
+  }
+  .form__goal .layout .form__goal--wrapper .form__goal--form .goal--form__right {
+    width: 100%;
+  }
+  .form__goal .layout .form__goal--wrapper .form__goal--form .goal--form__right .form__right--btn {
+    position: relative;
+    left: 0;
+    width: 100%;
+  }
+  .form__goal .layout .form__goal--wrapper .form__goal--form .goal--form__right .goal--form__wrapper {
+    margin: 0;
+  }
+  .auto__goal .auto__goal--wrapper {
+    margin-bottom: 100px;
+    width: auto;
+  }
+  .auto__goal .auto__goal--wrapper .auto__goal--right {
+    display: none;
+  }
+  .auto__goal-coating .goal-coating__item {
+    flex: 0 0 50%;
+  }
+  .auto__goal .auto__goal--wrapper .auto__goal--left .auto__goal--subtitle {
+    width: auto;
+  }
+  .auto__goal .auto__goal--wrapper .auto__goal--left {
+    width: 100%;
+  }
+  .how__goal--list {
+    flex-wrap: wrap;
+  }
+  .how__goal--list .goal--list__item {
+    max-width: 100%;
+    width: 100%;
+  }
+}
+@media (max-width: 600px) {
+  .swing__goal--enumeration {
+    padding-bottom: 25px;
+  }
+  .swing__goal--enumeration .goal__enumeration-list .goal__enumeration-item {
+    width: auto;
+    font-size: 12px;
+    line-height: 21px;
+  }
+  .auto__goal .auto__goal--wrapper .auto__goal--footnote {
+    width: auto;
+  }
+  .how__goal .layout .how__goal--title {
+    width: auto;
+    font-size: 25px;
+  }
+  .auto__goal .auto__goal--wrapper .auto__goal--left .auto__goal--title {
+    font-size: 25px;
+    width: auto;
+  }
+  .where__goal .layout .where__goal--title {
+    width: auto;
+    font-size: 25px;
+  }
+  .form__goal .layout .form__goal--wrapper .form__goal--form .goal--form__right .form__right--subtitle {
+    width: auto;
+  }
+  .footer {
+    padding: 25px 0;
+  }
+  .footer .layout .footer__wrapper {
+    flex-direction: column;
+  }
+  .footer .layout .footer__wrapper .footer__column {
+    height: auto;
+    margin-bottom: 25px;
+  }
+  .footer .layout .footer__wrapper .footer__column .footer__column-list {
+    height: 160px;
+  }
+  .swing__goal .layout .swing__goal--wrapper .swing__goal--title h1 {
+    font-size: 25px;
+    line-height: 24px;
+  }
+  .swing__goal .layout .swing__goal--wrapper .swing__goal--subtitle {
+    font-size: 12px;
+  }
+  .form__goal .layout .form__goal--wrapper .form__goal--form .goal--form__right .form__right--title {
+    font-size: 25px;
+  }
+  .form__goal .layout .form__goal--wrapper .form__goal--form .goal--form__right .form__right--subtitle {
+    font-size: 12px;
+    line-height: 18px;
+  }
+  .swing__goal .layout .swing__goal--wrapper .swing__goal--footnote {
+    font-size: 12px;
+    line-height: 18px;
+  }
+  .swing__goal .layout .swing__goal--list .swing__goal-item {
+    max-width: 100%;
+    margin-bottom: 25px;
+  }
+  .swing__goal .layout .swing__goal--list .goal-item__subtitle {
+    font-size: 12px;
+    line-height: 18px;
+  }
+  .auto__goal .auto__goal--wrapper .auto__goal--left .auto__goal--subtitle {
+    font-size: 12px;
+    line-height: 21px;
+    width: auto;
+  }
+  .auto__goal .auto__goal--wrapper .auto__goal--left {
+    padding: 40px;
+  }
+
+}
